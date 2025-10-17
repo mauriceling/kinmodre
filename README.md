@@ -14,4 +14,5 @@
 1. bsuN33SS25 (2025) on Bacillus subtilis N33 [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/Four-Ab-Initio-Whole-Cell-Kinetic-Models-of-Bacillus-subtilis-168-%28bsuLL25%29-6051-HGW-%28bshSM25%29%2C-N33-%28bsuN33SS25%29%2C-FUA2231-%28bsuGR25%29)]
 1. bsuGR25 (2025) on Bacillus subtilis FUA2231 [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/Four-Ab-Initio-Whole-Cell-Kinetic-Models-of-Bacillus-subtilis-168-%28bsuLL25%29-6051-HGW-%28bshSM25%29%2C-N33-%28bsuN33SS25%29%2C-FUA2231-%28bsuGR25%29)]
 1. bsuLL25 (2025) on Bacillus subtilis 168 [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/Four-Ab-Initio-Whole-Cell-Kinetic-Models-of-Bacillus-subtilis-168-%28bsuLL25%29-6051-HGW-%28bshSM25%29%2C-N33-%28bsuN33SS25%29%2C-FUA2231-%28bsuGR25%29)]
+1. UniKin2 (2025) on Pan-Reactome [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/UniKin2-%E2%80%93-A-Universal%2C-Pan-Reactome-Kinetic-Model)]
 1. ddsAAR26
