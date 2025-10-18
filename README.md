@@ -24,3 +24,10 @@ More details on each model; number of metabolites, enzymes, and reactions; are l
 ### List of Whole Cell Kinetic Models Converted from Genome-Scale Models (GSMs)
 As these Kinetic Models were converted from their respective GSMs using [Amir-Hamzah et al. (2022)](https://github.com/mauriceling/mauriceling.github.io/wiki/Kinetic-Models-with-Default-Enzyme-Kinetics-from-Genome-scale-Models), there are only model specification files (.modelspec) in the [asm](https://github.com/mauriceling/kinmodre/tree/main/asm) folder - there is no equivalent data package. However, the source GSMs are in [GSM](https://github.com/mauriceling/kinmodre/tree/main/GSM) folder. Hence, the model specification file and GSM will have the same name; for example, the iAF1260.xml [GSM](https://github.com/mauriceling/kinmodre/tree/main/GSM) folder is the source GSM that was converted into iAF1260.modelspec in [asm](https://github.com/mauriceling/kinmodre/tree/main/asm) folder.
 
+More details on each model are listed in [List of GSM-Converted Kinetic Models]([List of GSM-Converted Kinetic Models.xlsx](https://github.com/mauriceling/kinmodre/blob/main/List%20of%20GSM-Converted%20Kinetic%20Models.xlsx) file.
+
+1. e_coli_core [Source: BiGG]
+1. iAF1260 [Source: BiGG]
+1. Recon3D [Source: BiGG]
+
+[BiGG] Norsigian et al. 2020. BiGG Models 2020: multi-strain genome-scale models and expansion across the phylogenetic tree. Nucleic Acids Research 48(D1):D402–D406. https://doi.org/10.1093/nar/gkz1054
