@@ -1,6 +1,6 @@
 # KinModRe (Repository of Whole Cell Kinetic Models)
 
-### List of Whole Cell Kinetic Models
+### List of Whole Cell Kinetic Models (Developed by my group)
 1. UniKin1 (2020) on Generic Central Metabolism [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/UniKin1-A-Universal,-Non-Species-Specific-Whole-Cell-Kinetic-Model)]
 1. ecoJC20 (2021) on Escherichia coli [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/Adaptation-of-Whole-Cell-Kinetic-Model-Template%2C-UniKin1%2C-to-Escherichia-coli-Whole-Cell-Kinetic-Model%2C-ecoJC20)]
 1. pbmKZJ23 (2024) on Stutzerimonas balearica DSM 6083 [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/Ab-Initio-Whole-Cell-Kinetic-Model-of-Stutzerimonas-balearica-DSM-6083-%28pbmKZJ23%29)]
