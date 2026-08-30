@@ -1,0 +1,7 @@
+To generate ODE script from model specification:
+
+python astools.py genODE --modelfile=models/asm/bbrdPS26.modelspec --mtype=ASM --solver=RK4 --timestep=0.1 --endtime=3600 --lowerbound=0;0 --upperbound=1000;1000 --odefile=bbrdPS26.py
+
+To execute ODE script:
+
+python astools.py runODE --odefile=bbrdPS26.py --sampling=20 --resultfile=result_bbrdPS26.csv
