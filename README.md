@@ -11,3 +11,5 @@ As these Kinetic Models were converted from their respective GSMs using [Amir-Ha
 
 More details on each model are listed in [List of GSM-Converted Kinetic Models](https://github.com/mauriceling/kinmodre/blob/main/List%20of%20GSM-Converted%20Kinetic%20Models.xlsx) file.
 
+### Citation
+Mohamed-Khalid, N, Liew, NWJ, Ng, FJY, Lim, TY, Abdul-Samathu, F, Ling, MHT. 2026. [KinModRe – A Repository of Whole Cell Kinetic Models](https://github.com/mauriceling/mauriceling.github.io/wiki/KinModRe-%E2%80%93-A-Repository-of-Whole-Cell-Kinetic-Models). Journal of Clinical Immunology & Microbiology 7(3):1-4.
